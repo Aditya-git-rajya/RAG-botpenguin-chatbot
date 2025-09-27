@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500" alt="AI Speed Processing"/>
+<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="500" alt="Flash Speed Force"/>
 </div>
 
 ---
@@ -47,22 +47,22 @@ Traditional chatbots suffer from **hallucination**—generating plausible but in
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" alt="Lightning Speed" width="80"/>
+<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="Lightning Speed" width="80"/>
 <br><b>⚡ Lightning Speed</b>
 <br><500ms response time vs 2-5s traditional systems
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/213760677-8b3d0e9d-4b85-4e2b-b7d2-b0e3e1b2e0e0.gif" alt="AI Target" width="80"/>
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="Precision Target" width="80"/>
 <br><b>🎯 Zero Hallucination</b>
 <br>95%+ accuracy through content grounding
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/229223156-e4238c82-0399-4e58-ab6f-c2d14e8d2e96.gif" alt="AI Brain Processing" width="80"/>
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Neural Network Brain" width="80"/>
 <br><b>🧠 Semantic Understanding</b>
 <br>Meaning-based retrieval, not keyword matching
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Server Network" width="80"/>
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="Enterprise Infrastructure" width="80"/>
 <br><b>🏭 Production Ready</b>
 <br>Enterprise-grade architecture & error handling
 </td>
@@ -314,7 +314,7 @@ You: quit
 ## 📊 **Advanced Performance Analysis**
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="350" alt="Lightning Speed Analysis"/>
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="350" alt="Tony Stark Lab Analysis"/>
 </div>
 
 ### ⏱️ **Real-World Performance Metrics**
