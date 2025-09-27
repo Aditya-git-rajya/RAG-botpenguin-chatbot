@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="500" alt="AI Chatbot Animation"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500" alt="AI Speed Processing"/>
 </div>
 
 ---
@@ -47,22 +47,22 @@ Traditional chatbots suffer from **hallucination**—generating plausible but in
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" alt="Lightning Speed" width="96"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" alt="Lightning Speed" width="80"/>
 <br><b>⚡ Lightning Speed</b>
 <br><500ms response time vs 2-5s traditional systems
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="Zero Hallucination" width="96"/>
+<img src="https://user-images.githubusercontent.com/74038190/213760677-8b3d0e9d-4b85-4e2b-b7d2-b0e3e1b2e0e0.gif" alt="AI Target" width="80"/>
 <br><b>🎯 Zero Hallucination</b>
 <br>95%+ accuracy through content grounding
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" alt="AI Brain" width="96"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223156-e4238c82-0399-4e58-ab6f-c2d14e8d2e96.gif" alt="AI Brain Processing" width="80"/>
 <br><b>🧠 Semantic Understanding</b>
 <br>Meaning-based retrieval, not keyword matching
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" alt="Production Server" width="96"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Server Network" width="80"/>
 <br><b>🏭 Production Ready</b>
 <br>Enterprise-grade architecture & error handling
 </td>
@@ -252,10 +252,10 @@ chatbot.run_chat_app("https://your-website.com")
 
 ---
 
-## 🎯 **Usage Guide & Examples**
+## 💻 **Interactive Demo & Implementation**
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="400" alt="Usage Demo"/>
+<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="400" alt="Interactive Coding"/>
 </div>
 
 ### 💻 **Command Line Interface**
@@ -314,7 +314,7 @@ You: quit
 ## 📊 **Advanced Performance Analysis**
 
 <div align="center">
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="350" alt="Performance Analysis"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="350" alt="Lightning Speed Analysis"/>
 </div>
 
 ### ⏱️ **Real-World Performance Metrics**
@@ -340,7 +340,7 @@ You: quit
 
 ## ⚠️ **Limitations & Ideal Use Cases**
 
-<img align="right" width="300" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Limitations"/>
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="System Analysis"/>
 
 ### 🚧 **Current Limitations**
 
@@ -404,7 +404,7 @@ PRODUCTION_CONFIG = {
 ## 🔮 **Future Enhancements & Roadmap**
 
 <div align="center">
-<img src="https://media.giphy.com/media/l46CyJmS9KUbokzsI/giphy.gif" width="400" alt="Future Vision"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="Futuristic Development Lab"/>
 </div>
 
 ### 🚀 **Phase 2: Multi-Domain Intelligence**
