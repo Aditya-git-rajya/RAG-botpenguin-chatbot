@@ -187,9 +187,6 @@ python-dotenv==1.1.1            # Secure environment management
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300" alt="Setup Animation"/>
 </div>
-<div align="center">
-<img src="https://giphy.com/gifs/space-geometry-form-VgC8XzzUSfZkvjKkDJ" width="300" alt="Setup Animation"/>
-</div>
 
 ### 📋 **System Requirements**
 - **🐍 Python 3.9+** (async/await support)
