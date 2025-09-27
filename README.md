@@ -15,14 +15,14 @@
 </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="500" alt="Barry Allen Flash Speed"/>
+<img src="https://c.tenor.com/FwFhVv6L5wAAAAAC/flash-barry-allen.gif" width="500" alt="The Flash Running at Ultra Speed"/>
 </div>
 
 ---
 
 ## 🎯 **Project Overview**
 
-<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" alt="Lightning Fast"/>
+<img align="right" width="350" src="https://c.tenor.com/FwFhVv6L5wAAAAAC/flash-barry-allen.gif" alt="Lightning Fast Flash"/>
 
 > **Transform any website into an intelligent, lightning-fast knowledge base**
 
@@ -42,27 +42,28 @@ Traditional chatbots suffer from **hallucination**—generating plausible but in
 ---
 
 ## 🚀 **Key Features & Revolutionary Performance**
+*(Note: This section title remains the same as requested in the prompt's input)*
 
 <div align="center">
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" alt="Electric Lightning" width="80"/>
+<img src="https://c.tenor.com/jIuT5665gB8AAAAAC/the-flash-barry-allen.gif" alt="The Flash Running Fast" width="80"/>
 <br><b>⚡ Lightning Speed</b>
 <br><500ms response time vs 2-5s traditional systems
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="Clear Vision Target" width="80"/>
+<img src="https://c.tenor.com/1G8x0d86_qMAAAAC/falling-fall.gif" alt="No Hallucination" width="80"/>
 <br><b>🎯 Zero Hallucination</b>
 <br>95%+ accuracy through content grounding
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Deep Understanding" width="80"/>
+<img src="https://c.tenor.com/u_5YF_mNlU0AAAAAC/keanu-reeves-keanu.gif" alt="Deep Understanding" width="80"/>
 <br><b>🧠 Semantic Understanding</b>
 <br>Meaning-based retrieval, not keyword matching
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Ready for Action" width="80"/>
+<img src="https://c.tenor.com/gK2t261YQc4AAAAAC/wage-mareto-wage-mareto-live-reaction.gif" alt="Production Ready System" width="80"/>
 <br><b>🏭 Production Ready</b>
 <br>Enterprise-grade architecture & error handling
 </td>
@@ -86,7 +87,7 @@ The system combines three breakthrough technologies:
 ## 📊 **Business Impact & Performance Metrics**
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Performance Charts"/>
+<img src="https://c.tenor.com/Qh15Yp4_iKMAAAAC/hoo.gif" width="400" alt="Performance Triumph"/>
 </div>
 
 ### 🏆 **Revolutionary Improvements**
@@ -108,10 +109,10 @@ The system combines three breakthrough technologies:
 
 ---
 
-### 🏗️ **Architecture & Technology Stack**
+## 🏗️ **Architecture & Technology Stack**
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="350" alt="System Architecture"/>
+<img src="https://c.tenor.com/FwFhVv6L5wAAAAAC/flash-barry-allen.gif" width="350" alt="System Architecture"/>
 </div>
 
 ### 🔄 **The RAG Pipeline**
@@ -141,7 +142,7 @@ User Query → Query Embedding → Similarity Search → Context Retrieval → G
 
 ### 💡 **Technology Stack Rationale**
 
-<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Tech Stack"/>
+<img align="right" width="300" src="https://c.tenor.com/FwFhVv6L5wAAAAAC/flash-barry-allen.gif" alt="Tech Stack Flash Speed"/>
 
 **🚀 Why Groq Over OpenAI/Claude?**
 - **⚡ Speed**: LPU hardware provides **10x faster inference**
@@ -185,7 +186,7 @@ python-dotenv==1.1.1            # Secure environment management
 ## 🛠️ **Setup & Installation Guide**
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300" alt="Setup Animation"/>
+<img src="https://www.google.com/search?q=https://c.tenor.com/K8G2w14Fq-4AAAAAC/photography-art.gif" width="300" alt="Setup Guide Art"/>
 </div>
 
 ### 📋 **System Requirements**
@@ -255,9 +256,8 @@ chatbot.run_chat_app("https://your-website.com")
 ## 💻 **Interactive Demo & Implementation**
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="400" alt="Interactive Coding"/>
+<img src="https://www.google.com/url?sa=E&source=gmail&q=https://c.tenor.com/FwFhVv6L5wAAAAAC/flash-barry-allen.gif" width="400" alt="Interactive Coding Speed"/>
 </div>
-
 ### 💻 **Command Line Interface**
 ```bash
 # 🚀 Basic usage
@@ -314,7 +314,7 @@ You: quit
 ## 📊 **Advanced Performance Analysis**
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350" alt="Advanced Analytics Dashboard"/>
+<img src="https://www.google.com/url?sa=E&source=gmail&q=https://c.tenor.com/Qh15Yp4_iKMAAAAC/hoo.gif" width="350" alt="Advanced Analytics Dashboard Hoo"/>
 </div>
 
 ### ⏱️ **Real-World Performance Metrics**
@@ -340,7 +340,7 @@ You: quit
 
 ## ⚠️ **Limitations & Ideal Use Cases**
 
-<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="System Analysis"/>
+<img align="right" width="300" src="https://www.google.com/url?sa=E&source=gmail&q=https://c.tenor.com/FwFhVv6L5wAAAAAC/flash-barry-allen.gif" alt="System Analysis Speed"/>
 
 ### 🚧 **Current Limitations**
 
