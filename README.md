@@ -1,238 +1,120 @@
 <div align="center">
-
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=⚡+Groq-Powered+RAG+Chatbot;🤖+Ultra-Fast+AI+Assistant;🚀+Zero+Hallucination+Guarantee!&color=00CED1" />
-
 </div>
 
-
-
 <div align="center">
-
-
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg?style=for-the-badge&logo=python&logoColor=white)
-
 ![Groq](https://img.shields.io/badge/LLM-Groq%20API-green.svg?style=for-the-badge&logo=groq&logoColor=white)
-
 ![RAG](https://img.shields.io/badge/Architecture-RAG-orange.svg?style=for-the-badge&logo=robot-framework&logoColor=white)
-
 ![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg?style=for-the-badge&logo=checkmarx&logoColor=white)
 
-
-
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/aditya-git-rajya/groq-rag-chatbot)
-
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge&logo=open-source-initiative&logoColor=white)](https://opensource.org/licenses/MIT)
 
-
-
 </div>
-
-
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="500" alt="Barry Allen Flash Speed"/>
-
+<img src="https://media.tenor.com/FwFhVv6L5wAAAAAC/flash-barry-allen.gif" width="500" alt="The Flash Running at Ultra Speed"/>
 </div>
 
-
-
 ---
-
-
 
 ## 🎯 **Project Overview**
 
-
-
-<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" alt="Lightning Fast"/>
-
-
+<img align="right" width="350" src="https://media.tenor.com/FwFhVv6L5wAAAAAC/flash-barry-allen.gif" alt="Lightning Fast Flash"/>
 
 > **Transform any website into an intelligent, lightning-fast knowledge base**
 
-
-
 This production-grade **RAG (Retrieval-Augmented Generation) chatbot** eliminates LLM hallucinations by grounding responses in actual website content, powered by **Groq's revolutionary LPU hardware**.
 
-
-
 ### 🌟 **What This Project Solves**
-
 Traditional chatbots suffer from **hallucination**—generating plausible but incorrect information. This **RAG implementation** eliminates that problem by grounding every response in actual website content, achieving **95%+ accuracy** while maintaining conversational fluency.
 
-
-
 | 📊 Detail | ⚡ Value | 🏆 Achievement |
-
 |:---:|:---:|:---:|
-
 | **Developer** | Aditya Chauhan | 🎯 AI/ML Expert |
-
 | **Status** | Production Ready | ✅ Battle-tested |
-
 | **Response Time** | **<500ms** 🚀 | 10x faster than competitors |
-
-
 
 <br clear="right"/>
 
-
-
 ---
-
-
 
 ## 🚀 **Key Features & Revolutionary Performance**
 
-
-
 <div align="center">
-
 <table>
-
 <tr>
-
 <td align="center" width="25%">
-
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" alt="Electric Lightning" width="80"/>
-
+<img src="https://media.tenor.com/jIuT5665gB8AAAAAC/the-flash-barry-allen.gif" alt="The Flash Running Fast" width="80"/>
 <br><b>⚡ Lightning Speed</b>
-
 <br><500ms response time vs 2-5s traditional systems
-
 </td>
-
 <td align="center" width="25%">
-
-<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="Clear Vision Target" width="80"/>
-
+<img src="https://media.tenor.com/1G8x0d86_qMAAAAC/falling-fall.gif" alt="No Hallucination" width="80"/>
 <br><b>🎯 Zero Hallucination</b>
-
 <br>95%+ accuracy through content grounding
-
 </td>
-
 <td align="center" width="25%">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Deep Understanding" width="80"/>
-
+<img src="https://media.tenor.com/u_5YF_mNlU0AAAAAC/keanu-reeves-keanu.gif" alt="Deep Understanding" width="80"/>
 <br><b>🧠 Semantic Understanding</b>
-
 <br>Meaning-based retrieval, not keyword matching
-
 </td>
-
 <td align="center" width="25%">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Ready for Action" width="80"/>
-
+<img src="https://media.tenor.com/gK2t261YQc4AAAAAC/wage-mareto-wage-mareto-live-reaction.gif" alt="Production Ready System" width="80"/>
 <br><b>🏭 Production Ready</b>
-
 <br>Enterprise-grade architecture & error handling
-
 </td>
-
 </tr>
-
 </table>
-
 </div>
-
-
 
 ### 💥 **Core Innovation: RAG + Groq Integration**
 
-
-
 <div align="center">
-
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=700&height=40&duration=3000&lines=Website+Content+→+Embeddings+→+Vector+Search+→+Groq+LLM+→+Response!&color=FF6B35" />
-
 </div>
 
-
-
 The system combines three breakthrough technologies:
-
 - **🏗️ RAG Architecture**: Ensures **factual accuracy** through content grounding
-
 - **⚡ Groq's LPU Hardware**: Delivers **10x faster inference** than traditional APIs
-
 - **🔍 Semantic Search**: Understanding **meaning**, not just keywords
 
-
-
 ---
-
-
 
 ## 📊 **Business Impact & Performance Metrics**
 
-
-
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Performance Charts"/>
-
+<img src="https://media.tenor.com/Qh15Yp4_iKMAAAAC/hoo.gif" width="400" alt="Performance Triumph"/>
 </div>
-
-
 
 ### 🏆 **Revolutionary Improvements**
 
-
-
 | 📈 Metric | 🤖 Traditional Chatbot | 🚀 This Implementation | 📊 Improvement |
-
 |:---:|:---:|:---:|:---:|
-
 | **🎯 Response Accuracy** | 70-80% | **95%+** | **+20%** |
-
 | **⚡ Response Time** | 2-5 seconds | **<500ms** | **10x faster** |
-
 | **🛠️ Setup Time** | Days/Weeks | **Minutes** | **100x faster** |
-
 | **🚫 Hallucination Rate** | 20-30% | **<5%** | **85% reduction** |
-
-
 
 ### 🎪 **Real-World Performance Benchmarks**
 
-
-
 | 🎯 Solution | ⏱️ Response Time | 📊 Accuracy | 🛠️ Setup Complexity | 💰 Cost |
-
 |:---:|:---:|:---:|:---:|:---:|
-
 | **🚀 This RAG System** | <500ms | 95%+ | Low | Low |
-
 | **🔧 Fine-tuned Models** | 1-3s | 85-90% | High | High |
-
 | **🌐 OpenAI API Direct** | 2-5s | 70-80% | Medium | Medium |
-
-
 
 ---
 
-
-
 ### 🏗️ **Architecture & Technology Stack**
 
-
-
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="350" alt="System Architecture"/>
-
+<img src="https://media.tenor.com/FwFhVv6L5wAAAAAC/flash-barry-allen.gif" width="350" alt="System Architecture"/>
 </div>
 
-
-
 ### 🔄 **The RAG Pipeline**
-
-
 
 #### **🔍 Phase 1: Knowledge Ingestion**
 
