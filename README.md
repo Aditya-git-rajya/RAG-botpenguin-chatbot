@@ -18,7 +18,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500" alt="Ultra Speed Lightning"/>
 </div>
 
----
+
 
 ## 🎯 **Project Overview**
 
@@ -39,7 +39,7 @@ Traditional chatbots suffer from **hallucination**—generating plausible but in
 
 <br clear="right"/>
 
----
+
 
 ## 🚀 **Key Features & Revolutionary Performance**
 
@@ -81,7 +81,7 @@ The system combines three breakthrough technologies:
 - **⚡ Groq's LPU Hardware**: Delivers **10x faster inference** than traditional APIs
 - **🔍 Semantic Search**: Understanding **meaning**, not just keywords
 
----
+
 
 ## 📊 **Business Impact & Performance Metrics**
 
@@ -106,7 +106,7 @@ The system combines three breakthrough technologies:
 | **🔧 Fine-tuned Models** | 1-3s | 85-90% | High | High |
 | **🌐 OpenAI API Direct** | 2-5s | 70-80% | Medium | Medium |
 
----
+
 
 ### 🏗️ **Architecture & Technology Stack**
 
@@ -250,7 +250,7 @@ import chatbot
 chatbot.run_chat_app("https://your-website.com")
 ```
 
----
+
 
 ## 💻 **Interactive Demo & Implementation**
 
@@ -309,7 +309,7 @@ You: quit
 | **⚡ Faster Responses** | `TOP_K_CHUNKS` | 3 | Limits context passed to the LLM for speed |
 | **📚 Technical Docs** | `CHUNK_SIZE` | 600 | Provides better context for complex topics |
 
----
+
 
 ## 📊 **Advanced Performance Analysis**
 
@@ -336,7 +336,7 @@ You: quit
 - **⚙️ CPU**: Low utilization (I/O bound)
 - **💿 Storage**: 500MB for dependencies
 
----
+
 
 ## ⚠️ **Limitations & Ideal Use Cases**
 
@@ -360,7 +360,7 @@ You: quit
 
 <br clear="right"/>
 
----
+
 
 ## 🏭 **Production Deployment**
 
@@ -399,7 +399,7 @@ PRODUCTION_CONFIG = {
 ### 📊 **Monitoring & Analytics**
 - **📈 Key Metrics to Track**: Response times (P50, P95, P99), Error rates, and Resource utilization
 
----
+
 
 ## 🔮 **Future Enhancements & Roadmap**
 
@@ -422,7 +422,7 @@ PRODUCTION_CONFIG = {
 - **📈 Auto-Scaling:** Dynamic resource allocation
 - **🔒 Enterprise Security:** SSO, audit logs, compliance features
 
----
+
 
 ## 🎪 **Demo Examples & Test Cases**
 
@@ -448,7 +448,7 @@ PRODUCTION_CONFIG = {
 # 📋 Output: Complete admission criteria and deadlines
 ```
 
----
+
 
 ## 🤝 **Contributing & Community**
 
@@ -468,7 +468,7 @@ PRODUCTION_CONFIG = {
 - 🔧 **Integration APIs:** Connecting with popular platforms
 - 🎨 **Web Interface:** Building beautiful user interfaces
 
----
+
 
 ## 📞 **Connect & Contact**
 
@@ -488,7 +488,7 @@ PRODUCTION_CONFIG = {
 
 </div>
 
----
+
 
 ## 📜 **License & Acknowledgments**
 
@@ -505,7 +505,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 </div>
 
----
+
 
 <div align="center">
 
