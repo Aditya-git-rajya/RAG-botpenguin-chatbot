@@ -365,7 +365,7 @@ You: quit
 ## 🏭 **Production Deployment**
 
 <div align="center">
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Production Deployment"/>
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="400" alt="Production Deployment"/>
 </div>
 
 ### 📈 **Scalability Architecture**
