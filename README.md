@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500" alt="Ultra Speed Lightning"/>
+<img src="https://user-images.githubusercontent.com/74038190/216644487-64767dbf-3ffd-4a5a-bb44-88f07ea5a31c.gif" width="500" alt="Ultra Speed Lightning"/>
 </div>
 
 
@@ -47,22 +47,22 @@ Traditional chatbots suffer from **hallucination**—generating plausible but in
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212750108-9d85ce1e-ce63-4e36-be04-32bb5ba2a5b4.gif" alt="Power Lightning Bolt" width="80"/>
+<img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" alt="Power Lightning Bolt" width="80"/>
 <br><b>⚡ Lightning Speed</b>
 <br><500ms response time vs 2-5s traditional systems
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Precision Eye" width="80"/>
+<img src="https://user-images.githubusercontent.com/74038190/212745723-c7c386dc-108c-4a50-9c76-0f90afb2c0fa.gif" alt="Precision Eye" width="80"/>
 <br><b>🎯 Zero Hallucination</b>
 <br>95%+ accuracy through content grounding
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="Neural Intelligence" width="80"/>
+<img src="https://user-images.githubusercontent.com/74038190/213911167-6bc9ef46-2950-481c-a03c-189f9506083b.gif" alt="Neural Intelligence" width="80"/>
 <br><b>🧠 Semantic Understanding</b>
 <br>Meaning-based retrieval, not keyword matching
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="System Architecture" width="80"/>
+<img src="https://user-images.githubusercontent.com/74038190/215283039-83bf4f37-3fe5-4d25-a42a-249d1a7e9e4f.gif" alt="System Architecture" width="80"/>
 <br><b>🏭 Production Ready</b>
 <br>Enterprise-grade architecture & error handling
 </td>
