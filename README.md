@@ -180,7 +180,7 @@ scikit-learn==1.7.2             # Machine learning utilities
 python-dotenv==1.1.1            # Secure environment management
 ```
 
----
+
 
 ## 🛠️ **Setup & Installation Guide**
 
