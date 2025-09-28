@@ -141,7 +141,7 @@ User Query → Query Embedding → Similarity Search → Context Retrieval → G
 
 ### 💡 **Technology Stack Rationale**
 
-<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Tech Stack"/>
+<img align="right" width="300" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Tech Stack"/>
 
 **🚀 Why Groq Over OpenAI/Claude?**
 - **⚡ Speed**: LPU hardware provides **10x faster inference**
