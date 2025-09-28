@@ -57,12 +57,12 @@ Traditional chatbots suffer from **hallucination**—generating plausible but in
 <br>95%+ accuracy through content grounding
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39ca-4e47-a3f5-6d96c8e72043.gif" alt="Neural Intelligence" width="80"/>
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="Neural Intelligence" width="80"/>
 <br><b>🧠 Semantic Understanding</b>
 <br>Meaning-based retrieval, not keyword matching
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="System Architecture" width="80"/>
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="System Architecture" width="80"/>
 <br><b>🏭 Production Ready</b>
 <br>Enterprise-grade architecture & error handling
 </td>
